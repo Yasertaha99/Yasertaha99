@@ -61,15 +61,14 @@
   <br/>  
   
 # Contact Me
-<div align="center">
+<div align='center'>
   <h2>
   <img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-       <a href="mailto:yasser1119992017@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  <a href="https://www.linkedin.com/in/yasser-taha99" target="_blank"><img src="https://img.icons8.com/color/2x/linkedin"  width="50" /></a>
+       <a href="mailto:yasser1119992017@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50"  align='center' /></a>
+  <a href="https://www.linkedin.com/in/yasser-taha99" target="_blank"><img src="https://img.icons8.com/color/2x/linkedin"  width="50"  align='center' /></a>
   &nbsp;&nbsp; 
-    <a href='https://github.com/Yasertaha99' target="_blank" ><img align='center' src='https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat' width="100px" /></a>
-
+    <a href='https://github.com/Yasertaha99' target="_blank" ><img align='center' src='https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat' width="100px" align='center' /></a>
   </h2>
-  </br>
  
 </div>
+ </br>
