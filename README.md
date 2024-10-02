@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Gerges-Hana">
-    <img src="https://avatars.githubusercontent.com/u/155883044?s=400&u=51695a8109d5ff157cfcb4f0afb97cb96000a753&v=4" alt="Yasser Taha" width="450" height="300" border-radius="50px" 'filter: drop-shadow(30px 10px 4px #4444dd);'>
+    <img src="https://avatars.githubusercontent.com/u/155883044?s=400&u=51695a8109d5ff157cfcb4f0afb97cb96000a753&v=4" alt="Yasser Taha" width="450" height="300">
   </a>
   <br/>
    <br/>
