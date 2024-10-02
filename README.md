@@ -15,7 +15,7 @@
 # About Me 
   
 ## -  👀  I am Yasser Taha ... <br> - 💻  I’m a full stack php Laravel  <br>- 💻  Have training of Fullstack php laravel from ITI <br> - 💻  Have training of software fudamentals developer
-
+<br/>
 # Tech Stack 
 
 ## Web Designer
@@ -58,10 +58,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
  ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat)
 
-  <br/>  <br/>
-
-
-  <br/>  <br/>
+  <br/>  
+  
 # Contact Me
 <div align="center">
   <h2>
