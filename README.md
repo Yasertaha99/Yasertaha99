@@ -38,7 +38,7 @@
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
  ![ES6](https://img.shields.io/badge/-ES6-F7DF1E?logo=javascript&logoColor=black&style=flat)
  ![OOP](https://img.shields.io/badge/-OOP-007396?logo=python&logoColor=white&style=flat)
- ![Angular 15](https://img.shields.io/badge/-Angular%2015-DD0031?logo=angular&logoColor=white&style=flat)
+ ![Angular 18](https://img.shields.io/badge/-Angular%2015-DD0031?logo=angular&logoColor=white&style=flat)
 
 
 ## Backend Developer
