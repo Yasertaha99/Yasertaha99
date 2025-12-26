@@ -20,7 +20,7 @@ Currently, I am employed at **AiTech** as a **Backend Developer** (since Dec 202
 
 ## Work Experience
 
-### Backend Developer | **AiTech** | Dec 2024 - Present  
+### Backend Developer | **AiTech** | Oct 2024 - Present  
 🎯 [AiTech](https://aitech.net.au/)  
 At **AiTech**, I design and implement backend solutions that integrate with AI-driven technologies. I focus on building reliable, scalable, and high-performance backend systems using **PHP**, **Laravel**, and other related tools.
 
