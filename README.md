@@ -203,9 +203,9 @@ Recruitment processes required a structured system for posting jobs and managing
   <a href="https://github.com/Yasertaha99">
     <img src="https://img.icons8.com/glyph-neue/48/github.png" alt="GitHub" />
   </a>
-  <a href="https://wa.me/201090653527">
-    <img src="https://img.icons8.com/color/48/whatsapp.png" width="45" alt="WhatsApp"/>
-  </a>
+<a href="https://wa.me/201090653527?text=Hi!+Yasser+Taha+here.+Backend+Engineer+%40+AiTech+%7C+PHP%2C+Laravel+%26+Node.js+Enthusiast.+Leave+your+message%2C+and+I%27ll+get+back+to+you+once+I%27m+off+the+terminal!.">
+  <img src="https://img.icons8.com/color/48/whatsapp.png" width="45" alt="WhatsApp"/>
+</a>
   <a href="tel:+201090653527">
     <img src="https://img.icons8.com/color/48/phone.png" alt="Phone" />
   </a>
