@@ -46,37 +46,114 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack & Skills
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-009688)
-
----
+### 🖥️ Backend 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge) ![MVC](https://img.shields.io/badge/MVC-007396?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge) ![SOLID](https://img.shields.io/badge/SOLID-43853D?style=for-the-badge) ![Design Patterns](https://img.shields.io/badge/Design_Patterns-A32036?style=for-the-badge)
 
 ### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🛠️ Frameworks & Communication
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-0078D7?style=for-the-badge&logo=webrtc&logoColor=white) ![Queue](https://img.shields.io/badge/Queue_Management-009688?style=for-the-badge)
+
+### 🚀 DevOps &  Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+## 📌 Projects
+
+### Kuttab Online Platform
+
+**Problem:**  
+Traditional Quran learning platforms lacked scalability and proper user role management, making it difficult to manage students, instructors, and certifications efficiently.
+
+**Solution:**  
+- Designed a modular backend architecture using Laravel Modules  
+- Implemented a robust RBAC system for flexible permission control  
+- Built systems for Quran content management, certification, and progress tracking  
+- Structured the system to be scalable and easy to extend  
+
+**Result:**  
+- Improved system maintainability and scalability  
+- Enabled efficient management of multiple user roles  
+- Reduced complexity for adding new features and modules  
 
 ---
 
-### 🚀 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+### Safety Monitor System
+
+**Problem:**  
+Organizations needed a reliable system to monitor safety data and track incidents in real-time, but existing solutions were slow and lacked structured reporting.
+
+**Solution:**  
+- Built a backend system to collect and process safety data  
+- Designed optimized database schema for logs and monitoring records  
+- Implemented real-time-ready architecture for handling incoming data  
+- Developed reporting features for tracking and analysis  
+
+**Result:**  
+- Faster access to safety data and reports  
+- Improved reliability in monitoring operations  
+- Better decision-making through structured data insights  
 
 ---
+
+### Learning Management System (LMS)
+
+**Problem:**  
+Managing courses, users, and learning progress manually or through basic systems caused inefficiencies and poor user experience.
+
+**Solution:**  
+- Developed backend modules for courses, users, and enrollments  
+- Implemented role-based access for admins, instructors, and students  
+- Built APIs for managing course content and tracking progress  
+- Designed scalable database structure  
+
+**Result:**  
+- Streamlined course and user management  
+- Improved learning workflow efficiency  
+- Scalable system capable of handling large numbers of users  
+
+---
+
+### HR Management System
+
+**Problem:**  
+Companies needed a centralized system to manage employees, departments, and attendance instead of relying on manual processes.
+
+**Solution:**  
+- Built backend system for employee and department management  
+- Implemented validation and role-based access control  
+- Added reporting and filtering features  
+- Designed clean and maintainable architecture  
+
+**Result:**  
+- Reduced manual work and errors  
+- Improved visibility of employee data  
+- Easier reporting and HR decision-making  
+
+---
+
+### Job Board System
+
+**Problem:**  
+Recruitment processes required a structured system for posting jobs and managing applications efficiently.
+
+**Solution:**  
+- Built RESTful API with authentication and RBAC  
+- Developed job posting and application workflows  
+- Implemented search and filtering features  
+- Optimized database queries for performance  
+
+**Result:**  
+- Simplified recruitment workflow  
+- Faster job search and application process  
+- Improved system performance and scalability  
 
 ## 🧩 What I Focus On
 
