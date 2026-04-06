@@ -12,14 +12,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1500&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;Laravel+Specialist;Building+Scalable+Systems;Node.js+%26+Real-time+Apps" />
 </p>
 
----
+# Summary
 
-## 🚀 About Me
+I am a **Backend Developer** specialized in architecting scalable and high-performance server-side applications. Currently, I am part of the engineering team at **AiTech**, where I focus on developing robust backend systems integrated with **AI technologies**. 
 
-💻 Backend Developer with strong experience in **PHP & Laravel**  
-⚡ Passionate about building **scalable, secure, high-performance systems**  
-🧠 Currently leveling up into **Node.js & real-time architectures**  
-🏢 Working at **AiTech** on backend systems integrated with AI technologies  
+With a deep-rooted expertise in the **PHP & Laravel** ecosystem, I am dedicated to implementing **Clean Architecture** and **SOLID principles** to ensure code maintainability and system reliability. My current technical trajectory involves mastering the **Node.js ecosystem** to build event-driven, real-time architectures (WebSockets/WebRTC) and microservices.
 
 ---
 
@@ -155,22 +152,42 @@ Recruitment processes required a structured system for posting jobs and managing
 - Faster job search and application process  
 - Improved system performance and scalability  
 
+---
+
 ## 🧩 What I Focus On
 
-- Clean Architecture & Scalable Systems  
-- Performance Optimization  
-- Secure Backend Development  
-- API Design & Integration  
-- Transitioning to Node.js Ecosystem  
+* **Clean Architecture & Scalable Systems:** Crafting modular, testable codebases that grow with the business.
+* **Performance Optimization:** Tuning databases (MySQL/PostgreSQL) and leveraging **Redis** for high-speed caching.
+* **Secure Backend Development:** Implementing advanced Auth patterns and protecting RESTful API infrastructures.
+* **API Design & Integration:** Building seamless bridges between complex backend logic and modern frontends or AI models.
+* **Node.js Ecosystem Transition:** Shifting towards high-concurrency environments and real-time data processing.
 
 ---
 
-## 📌 Featured Goals (2026)
+## 🎯 Focus & Strategic Goals (2026)
 
-- 🚀 Build production-ready Node.js APIs  
-- ⚡ Master real-time systems (WebSockets)  
-- 🧠 Learn Microservices Architecture  
-- 🔥 Contribute to open source  
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧩 Core Expertise</h4>
+      <ul>
+        <li><b>Clean Architecture:</b> Writing maintainable, testable code using SOLID principles.</li>
+        <li><b>Scalable Systems:</b> Designing high-traffic backends with <b>PHP/Laravel</b> & <b>Node.js</b>.</li>
+        <li><b>Performance:</b> Database optimization (MySQL/PostgreSQL) and caching with <b>Redis</b>.</li>
+        <li><b>Security:</b> Implementation of secure Auth systems and protected RESTful APIs.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 2026 Roadmap</h4>
+      <ul>
+        <li><b>Real-time mastery:</b> Deep diving into <b>WebSockets</b> & <b>WebRTC</b> for live systems.</li>
+        <li><b>Ecosystem Transition:</b> Expanding full-scale production apps in the <b>Node.js/TypeScript</b> environment.</li>
+        <li><b>Advanced Architecture:</b> Mastering <b>Microservices</b> and Event-driven design.</li>
+        <li><b>Open Source:</b> Contributing to the core frameworks I use daily.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
