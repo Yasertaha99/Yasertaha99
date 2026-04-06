@@ -178,12 +178,23 @@ Recruitment processes required a structured system for posting jobs and managing
 
 <p align="center">
   <a href="mailto:yasser1119992017@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/yasser-taha99">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Yasertaha99">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.icons8.com/glyph-neue/48/github.png" alt="GitHub" />
   </a>
+  <a href="https://wa.me/201090653527">
+    <img src="https://img.icons8.com/color/48/whatsapp.png" width="45" alt="WhatsApp"/>
+  </a>
+  <a href="tel:+201090653527">
+    <img src="https://img.icons8.com/color/48/phone.png" alt="Phone" />
+  </a>
+  <a></a>
+</p>
+
+<p align="center">
+  <strong>📱 +2 01090653527</strong>
 </p>
