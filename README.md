@@ -1,119 +1,217 @@
 <p align="center">
-  <!-- Use a 1:1 aspect ratio professional headshot here -->
-  <img src="[LINK_TO_YOUR_PROFESSIONAL_HEADSHOT]" alt="Yasser Taha" width="200" height="200" style="border-radius:50%; border: 4px solid #f0f0f0; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  <a href="https://github.com/Yasertaha99">
+     <img src="https://avatars.githubusercontent.com/u/155883044?s=400" 
+          alt="Yasser Taha" width="220" style="border-radius:50%">
+  </a>
 </p>
 
-<h1 align="center">Yasser Taha</h1>
-<p align="center">
-  <strong>Backend Engineer | PHP Laravel | Node.js Specialist</strong><br>
-  📍 Based in 6th of October City, Giza, Egypt
-</p>
-
-<p align="center">
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="[LINK_TO_YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="[LINK_TO_YOUR_GITHUB]"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="[LINK_TO_YOUR_WHATSAPP]"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</p>
-
----
-
-## 🚀 Executive Summary
-
-I am a results-oriented **Backend Engineer** dedicated to architecting scalable, high-performance server-side applications. Currently, I am a key contributor to the engineering team at **AiTech**, focusing on the development of robust backend systems integrated with advanced **AI technologies**.
-
-With specialized expertise in the **PHP & Laravel** ecosystem, I am passionate about implementing **Clean Architecture** and **SOLID principles** to ensure code maintainability, security, and system reliability. My immediate strategic goal is mastering the **Node.js environment** to build high-concurrency, event-driven architectures and real-time solutions.
-
----
-
-## 🧠 Technical Expertise (Snapshot)
+<h1 align="center">Hi 👋 I'm Yasser Taha</h1>
+<h3 align="center">Backend Developer | PHP Laravel | Node.js </h3>
 
 <p align="center">
-  <!-- CORE LANGUAGES/CONCEPTS -->
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/OOP-00599C.svg?style=flat" alt="OOP"/>
-  <img src="https://img.shields.io/badge/SOLID_Principles-43853D.svg?style=flat" alt="SOLID"/>
-  <img src="https://img.shields.io/badge/Design_Patterns-E94E32.svg?style=flat" alt="Design Patterns"/>
-  <br>
-  <!-- FRAMEWORKS & DATABASES -->
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=flat&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" alt="Redis"/>
-  <br>
-  <!-- DEVOPS & TOOLS -->
-  <img src="https://img.shields.io/badge/REST_API-009688.svg?style=flat&logo=postman&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1500&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;Laravel+Specialist;Building+Scalable+Systems;Node.js+%26+Real-time+Apps" />
 </p>
 
----
+# Summary
 
-## 💼 Professional Experience
+I am a **Backend Developer** specialized in architecting scalable and high-performance server-side applications. Currently, I am part of the engineering team at **AiTech**, where I focus on developing robust backend systems integrated with **AI technologies**. 
 
-### Backend Developer | AiTech
-*Oct 2024 – Present | Giza, Egypt (Hybrid)*
-
-*   Engineered and optimized RESTful APIs leveraging Laravel, enhancing overall application responsiveness.
-*   Architected modular backend components ensuring seamless integration with third-party AI services.
-*   Analyzed and refactored complex database queries, significantly reducing execution latency.
-*   Streamlined software delivery cycles by managing and improving CI/CD pipelines via GitHub Actions.
-*   Collaborated tightly with DevOps colleagues to manage and scale Linux-based cloud infrastructure.
-
-### Freelance Backend Developer | Independent Contractor
-*Jul 2024 – Nov 2024*
-
-*   Provided end-to-end backend engineering solutions for multiple startup client projects.
-*   Designed relational database schemas (MySQL/PostgreSQL) optimized for speed and scalability.
-*   Managed successful deployment strategies on various hosting platforms using Nginx and Apache.
-*   Offered long-term technical consultation and system maintenance for legacy applications.
+With a deep-rooted expertise in the **PHP & Laravel** ecosystem, I am dedicated to implementing **Clean Architecture** and **SOLID principles** to ensure code maintainability and system reliability. My current technical trajectory involves mastering the **Node.js ecosystem** to build event-driven, real-time architectures (WebSockets/WebRTC) and microservices.
 
 ---
 
-## 📌 Featured Projects (Impact Focused)
+## 💼 Work Experience
 
-### 🕌 Kuttab Online Platform
-*Scalable Ed-Tech Solution*
-*   **Problem:** Legacy platform scalability and inefficient, fragmented user role management for large datasets.
-*   **Solution:** Restructured the architecture using **Laravel Modules** for better separation of concerns and implemented a comprehensive **Role-Based Access Control (RBAC)** system.
-*   **Result:** Delivered a modular system that streamlined operations, secured data, and significantly reduced the time-to-market for new features.
+### 🧑‍💻 Backend Developer | AiTech  
+📅 Oct 2024 – Present  
 
-### 🛡️ Safety Monitor System
-*Real-time Performance & Monitoring*
-*   **Problem:** Reactive instead of proactive monitoring due to high-latency data processing and lack of structured reporting.
-*   **Solution:** Built a high-concurrency backend API with an optimized PostgreSQL schema to process and log monitoring data efficiently.
-*   **Result:** Enabled real-time visibility into safety operations, allowing for data-driven decision-making and faster incident response times.
-
-### 📚 Learning Management System (LMS)
-*High-Traffic User Management*
-*   **Problem:** Existing systems struggled to handle simultaneous user enrollments, leading to performance bottlenecks during peak times.
-*   **Solution:** Implemented caching strategies using **Redis** and optimized enrollment transaction logic within a clean architectural framework.
-*   **Result:** Created a stable, robust system capable of supporting high concurrent user activity without compromising user experience.
-
-### 👥 HR Management System
-*Data Validation & Automation*
-*   **Problem:** Fragmentation and high error rates in managing employee data and attendance across decentralized spreadsheets.
-*   **Solution:** Centered data operations into a unified Laravel backend with strict validation rules and automated reporting.
-*   **Result:** Drastically improved data accuracy, reduced administrative manual workload, and enhanced overall operational visibility.
-
-### 💼 Job Board System
-*Fast Search & Authentication*
-*   **Problem:** Slow performance during job search and complex, vulnerable application workflows.
-*   **Solution:** Developed a secure RESTful API with automated workflow triggers and highly optimized database search queries.
-*   **Result:** Simplified the application lifecycle and provided a highly responsive, performant experience for job seekers and recruiters.
+- Designed and built scalable backend systems integrated with AI services  
+- Developed high-performance REST APIs using Laravel  
+- Optimized database performance and query efficiency  
+- Managed deployments using CI/CD pipelines  
+- Collaborated with DevOps on cloud infrastructure  
 
 ---
 
-## 🎯 2026 Strategic Engineering Goals
+### 🌍 Freelance Backend Developer  
+📅 Jul 2024 – Nov 2024  
 
-| Focus Area | Objective |
-| :--- | :--- |
-| **Real-Time Mastery** | Deep-diving into **WebSockets** and **WebRTC** to build interactive, live data backend systems. |
-| **Node.js Transition** | Transitioning from conceptual understanding to full-scale, production-grade **Node.js & TypeScript** development. |
-| **Microservices** | Mastering service-oriented architecture, Docker orchestration, and event-driven design patterns. |
-| **Performance Tuning** | Leveraging advanced **Redis** patterns, database indexing optimization, and server-level tuning. |
+- Built custom backend systems for startups  
+- Designed and optimized databases (MySQL, PostgreSQL)  
+- Deployed apps using cPanel, Nginx, Apache  
+- Provided maintenance & long-term support  
+
+---
+
+## 🧠 Tech Stack & Skills
+
+### 🖥️ Backend 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge) ![MVC](https://img.shields.io/badge/MVC-007396?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge) ![SOLID](https://img.shields.io/badge/SOLID-43853D?style=for-the-badge) ![Design Patterns](https://img.shields.io/badge/Design_Patterns-A32036?style=for-the-badge)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🛠️ Frameworks & Communication
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-0078D7?style=for-the-badge&logo=webrtc&logoColor=white) ![Queue](https://img.shields.io/badge/Queue_Management-009688?style=for-the-badge)
+
+### 🚀 DevOps &  Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📌 Projects
+
+### Kuttab Online Platform
+
+**Problem:**  
+Traditional Quran learning platforms lacked scalability and proper user role management, making it difficult to manage students, instructors, and certifications efficiently.
+
+**Solution:**  
+- Designed a modular backend architecture using Laravel Modules  
+- Implemented a robust RBAC system for flexible permission control  
+- Built systems for Quran content management, certification, and progress tracking  
+- Structured the system to be scalable and easy to extend  
+
+**Result:**  
+- Improved system maintainability and scalability  
+- Enabled efficient management of multiple user roles  
+- Reduced complexity for adding new features and modules  
+
+---
+
+### Safety Monitor System
+
+**Problem:**  
+Organizations needed a reliable system to monitor safety data and track incidents in real-time, but existing solutions were slow and lacked structured reporting.
+
+**Solution:**  
+- Built a backend system to collect and process safety data  
+- Designed optimized database schema for logs and monitoring records  
+- Implemented real-time-ready architecture for handling incoming data  
+- Developed reporting features for tracking and analysis  
+
+**Result:**  
+- Faster access to safety data and reports  
+- Improved reliability in monitoring operations  
+- Better decision-making through structured data insights  
+
+---
+
+### Learning Management System (LMS)
+
+**Problem:**  
+Managing courses, users, and learning progress manually or through basic systems caused inefficiencies and poor user experience.
+
+**Solution:**  
+- Developed backend modules for courses, users, and enrollments  
+- Implemented role-based access for admins, instructors, and students  
+- Built APIs for managing course content and tracking progress  
+- Designed scalable database structure  
+
+**Result:**  
+- Streamlined course and user management  
+- Improved learning workflow efficiency  
+- Scalable system capable of handling large numbers of users  
+
+---
+
+### HR Management System
+
+**Problem:**  
+Companies needed a centralized system to manage employees, departments, and attendance instead of relying on manual processes.
+
+**Solution:**  
+- Built backend system for employee and department management  
+- Implemented validation and role-based access control  
+- Added reporting and filtering features  
+- Designed clean and maintainable architecture  
+
+**Result:**  
+- Reduced manual work and errors  
+- Improved visibility of employee data  
+- Easier reporting and HR decision-making  
+
+---
+
+### Job Board System
+
+**Problem:**  
+Recruitment processes required a structured system for posting jobs and managing applications efficiently.
+
+**Solution:**  
+- Built RESTful API with authentication and RBAC  
+- Developed job posting and application workflows  
+- Implemented search and filtering features  
+- Optimized database queries for performance  
+
+**Result:**  
+- Simplified recruitment workflow  
+- Faster job search and application process  
+- Improved system performance and scalability  
+
+---
+
+## 🧩 What I Focus On
+
+* **Clean Architecture & Scalable Systems:** Crafting modular, testable codebases that grow with the business.
+* **Performance Optimization:** Tuning databases (MySQL/PostgreSQL) and leveraging **Redis** for high-speed caching.
+* **Secure Backend Development:** Implementing advanced Auth patterns and protecting RESTful API infrastructures.
+* **API Design & Integration:** Building seamless bridges between complex backend logic and modern frontends or AI models.
+* **Node.js Ecosystem Transition:** Shifting towards high-concurrency environments and real-time data processing.
+
+---
+
+## 🎯 Focus & Strategic Goals (2026)
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧩 Core Expertise</h4>
+      <ul>
+        <li><b>Clean Architecture:</b> Writing maintainable, testable code using SOLID principles.</li>
+        <li><b>Scalable Systems:</b> Designing high-traffic backends with <b>PHP/Laravel</b> & <b>Node.js</b>.</li>
+        <li><b>Performance:</b> Database optimization (MySQL/PostgreSQL) and caching with <b>Redis</b>.</li>
+        <li><b>Security:</b> Implementation of secure Auth systems and protected RESTful APIs.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 2026 Roadmap</h4>
+      <ul>
+        <li><b>Real-time mastery:</b> Deep diving into <b>WebSockets</b> & <b>WebRTC</b> for live systems.</li>
+        <li><b>Ecosystem Transition:</b> Expanding full-scale production apps in the <b>Node.js/TypeScript</b> environment.</li>
+        <li><b>Advanced Architecture:</b> Mastering <b>Microservices</b> and Event-driven design.</li>
+        <li><b>Open Source:</b> Contributing to the core frameworks I use daily.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:yasser1119992017@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/yasser-taha99">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Yasertaha99">
+    <img src="https://img.icons8.com/glyph-neue/48/github.png" alt="GitHub" />
+  </a>
+<a href="https://wa.me/201090653527?text=Hi!+Yasser+Taha+here.+Backend+Engineer+%40+AiTech+%7C+PHP%2C+Laravel+%26+Node.js+Enthusiast.+Leave+your+message%2C+and+I%27ll+get+back+to+you+once+I%27m+off+the+terminal!.">
+  <img src="https://img.icons8.com/color/48/whatsapp.png" width="45" alt="WhatsApp"/>
+</a>
+  <a href="tel:+201090653527">
+    <img src="https://img.icons8.com/color/48/phone.png" alt="Phone" />
+  </a>
+  <a></a>
+</p>
+
+<p align="center">
+  <strong>📱 +2 01090653527</strong>
+</p>
